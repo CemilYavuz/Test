@@ -1,8 +1,8 @@
-# Hallo,
+## Hallo,
 
 ich bin der Jimmy und lerne gerade WebDevelopment
 
-##LINK
+## LINK
 Hier ist mein Link [here][https://google.com)
 
 
@@ -11,4 +11,9 @@ Hier ist mein Link [here][https://google.com)
 
 
 Here you find my [Image](download.jpeg)
+
+## Emojis
+:smile:
+:book:
+
 
