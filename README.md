@@ -10,5 +10,5 @@ Hier ist mein Link [here][https://google.com)
 ![github-git](download.jpeg)
 
 
-Here you find my [Image] (download.jpeg)
+Here you find my [Image](download.jpeg)
 
