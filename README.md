@@ -7,7 +7,7 @@ Hier ist mein Link [here][https://google.com)
 
 
 ## Image
-![github-git](download.jpeg)
+![Download](download.jpeg)
 
 
 Here you find my [Image](download.jpeg)
